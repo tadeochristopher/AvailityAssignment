@@ -1,0 +1,41 @@
+UserId,FirstName,LastName,Version,InsuranceCompany
+1A,Tom,Vance,10,Anthem Inc.
+1A,Tom,Vance,15,Aetna
+2M,Amy,Beard,1,Meritas
+3H,Stephanie,Allen,1,Humana
+4T,Gary,Morgan,3,Tricare
+5M,Martha,Arnold,19,Medicad
+5H,Martha,Arnold,19,Humana
+6C,Louis,Mitchellson,3,Cigna
+6UH,Charles,Swan,8,United Healthcare
+6UI,Michelle,Swan,1,United Healthcare
+6UJ,Amanada,Swan,1,United Healthcare
+8K,Brandon,Zanni,1,Kaiser Foundation
+9CC,Jason,Breechum,5,Centene Corporation
+9C,Elvis,Autumn,1,CVS
+10C,Kevin,Heart,2,CVS
+10BC,Steven,Jackson,6,Blue Cross Blue Shield
+11CI,Teddy,Olsen,4,Carefirst Inc.
+12CPS,Ken,Hon,11,California Physicians Service
+12CPT,Barbie,Hon,1,California Physicians Service
+12HNC,Thai,Ghen,5,Health Net of California
+13MCHICL,Vjay,Ram,7,Manipal Cigna Health Insurance Company Limited
+13SHAI,Raj,Varama,1,Star Health & Allied Insurance
+18,Minji,Menece,1,National Insurance Co. Ltd.
+18,Minji,Menece,2,National Insurance Co. Ltd.
+18FIN,Boba,Fett,1,National Insurance Co. Ltd.
+18FJN,Jango,Fett,1,National Insurance Co. Ltd.
+18FKN,Din,Dirjarin,40,National Insurance Co. Ltd.
+19,Greef,Karga,3,National Insurance Co. Ltd.
+19PK,Tobias,Beckett,2,Anthem Inc.
+19PL,Val,Beckett,1,Anthem Inc.
+19PM,Cara,Dune,9,Anthem Inc.
+19PN,Rose,Tico,2,California Physicians Service
+19PO,Finn,Finn,2,California Physicians Service
+19PP,Poe,Dameron,1,California Physicians Service
+19PQ,Darth,Bane,1,California Physicians Service
+20S,Qui-Gun,Jinn,10,CVS
+20SI,Ben,Kenobi,3,CVS
+20SL,Cal,Kestis,2,CVS
+20SK,Kylo,Ren,33,CVS
+20SN,Hera,Syndulla,10,Cigna

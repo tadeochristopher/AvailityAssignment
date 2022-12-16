@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "VisualCheck": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:16266;http://localhost:16271"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Checker": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:16268;http://localhost:16269"
+    }
+  }
+}

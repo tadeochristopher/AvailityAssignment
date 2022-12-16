@@ -1,0 +1,110 @@
+﻿@import url(phone_mb.css);
+
+.RegisterBtn {
+    width: 165px;
+    height: 28px;
+    border-radius: 8px;
+    border: 1px solid #FF4500;
+    cursor: pointer;
+}
+
+.regControlBase {
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.2) 8px 8px;
+    width: 875px;
+    height: 600px;
+    margin: 5px auto 5px auto;
+    border: 1px solid #000;
+    overflow: hidden;
+    display: flex;
+}
+
+.inputRegister {
+    width: 355px;
+    height: 28px;
+    border: 0;
+    outline: none;
+}
+
+.socialMediaBtn {
+    width: 165px !important;
+    height: 26px !important;
+    font-size: 11px !important;
+    display: inline-block !important;
+    margin: 0 auto !important;
+}
+
+.RegisterBtn:hover {
+    border: 3px solid #FF4500;
+}
+
+.regFormBody {
+    padding: 25px 5px 0 45px;
+    width: 500px;
+}
+
+.regFormBody p {
+    width: 325px;
+    font-size: 12px;
+    font-family: 'Palatino Linotype';
+}
+
+.regFormBody h4 {
+    font-family: 'Palatino Linotype';
+    font-size: 19pt;
+}
+
+.regFormBody img {
+    margin: -30px auto 15px 195px;
+}
+
+.regFormBody ul {
+    display: table;
+    list-style: none;
+    padding: 0;
+    border: 0;
+}
+
+.regFormBody ul li {
+    border-bottom: 1px solid #ccc;
+    margin: 0 0 30px 0;
+}
+
+.companyInfo {
+    background-image: url("../imgs/Verify-Providers-450x300.jpg");
+    background-color: #cccccc;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 400px;
+    flex: 1;
+}
+
+.companyInfo p {
+    text-align: left;
+    font-display: block;
+    font-family: 'Palatino Linotype';
+    margin: 5px 5px 35px 10px;
+}
+
+.companyInfo h1 {
+    margin: 40px 5px 5px 35px;
+}
+
+.companyInfo h3 {
+    font-size: 18px;
+    margin: 5px 5px 5px 10px;
+}
+
+.companyInfo:first-child {
+    margin-right: 20px;
+}
+
+.error {
+    font-family: 'Palatino Linotype';
+    color: #db2269;
+    font-size: 0.625em;
+    display: relative;
+}

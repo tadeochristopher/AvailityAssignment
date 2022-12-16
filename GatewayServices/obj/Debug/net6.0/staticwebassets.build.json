@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IeL+qXH+1ovuZvxR593vMTnki+avIFn4NaIraU/t89Y=",
+  "Source": "GatewayServices",
+  "BasePath": "_content/GatewayServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
