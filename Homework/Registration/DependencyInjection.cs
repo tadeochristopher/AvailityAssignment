@@ -1,6 +1,4 @@
-﻿using Microsoft.Extensions.DependencyInjection.Extensions;
-using System.Reflection;
-using GatewayServices.Utilities;
+﻿using GatewayServices.Utilities;
 
 namespace Registration
 {

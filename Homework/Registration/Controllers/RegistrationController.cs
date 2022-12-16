@@ -1,12 +1,7 @@
 ﻿using GatewayServices.Entities;
 using GatewayServices.Handlers;
-using GatewayServices.Utilities;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Win32;
 using System.ComponentModel;
-using Newtonsoft.Json;
-using Microsoft.Extensions.Options;
 
 namespace Registration.Controllers
 {
